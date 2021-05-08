@@ -1,0 +1,7 @@
+error_reporting = E_ALL
+display_errors = 1
+
+; {{{ The following lines were automatically added by DreamHost
+zend_extension=opcache.so
+memory_limit=500M
+; }}} That's all from DreamHost
